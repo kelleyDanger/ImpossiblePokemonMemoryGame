@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Impossible Pokemon Memory Game</string>
+    <string name="player_score">Player Score: </string>
+    <string name="new_game">New Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
